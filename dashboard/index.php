@@ -1,6 +1,6 @@
 <?php
 require_once('../config/conection.php');
-require_once('../partials/modal.php');
+require_once('../partials/modal1.php');
 ?>
 
 <!DOCTYPE html>
